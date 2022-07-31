@@ -16,10 +16,34 @@ This repository has the purpose of posting notes and projects carried out during
 
 Topics Guide
 =================
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
+   * [Web Fundamentals](#)
+   * [HTML5](#)
+   * [CSS3](#)
+   * [Javascript ES6](#)
+   * [DOM Manipulation(#)
+   * [jQuery](#)
+   * [Bash Command Line](#)
+   * [Git, GitHub and Version Control](#)
+   * [Backend Web Development](#)
+   * [Node.js](#)
+   * [NPM](#)
+   * [Express.js](#)
+   * [EJS](#)
+   * [REST](#)
+   * [APIs](#)
+   * [Databases](#)
+   * [SQL](#)
+   * [MongoDB](#)
+   * [Authentication](#)
+   * [Firebase](#)
+   * [React.js](#)
+   * [React Hooks](#)
+   * [Web Design](#)
+   * [Deployment with GitHub Pages, Heroku and MongoDB Atlas](#)
+   * [Web3 Development on the Internet Computer](#)
+   * [Blockchain technology](#)
+   * [Token contract development](#)
+   * [NFT minting, buying and selling logic](#)
 
 Syllabus
 =================
