@@ -251,7 +251,48 @@ Syllabus
       * [Import/Export and Modules](#) 
       * [Object and Array Destructuring](#)
       * [Spread Operator](#)
+      
+  <br>
+
+   * **Web3 Basics and Blockchain Development**
+      * [Understand Web3 and blockchain development](#)
+      * [Understand a Canister](#)
+      * [Understand a Motoko actor](#)
+      
+  <br>
+  
+   * **Deploy your CV Website onto a Blockchain**
+      * [Set up a cycles wallet](#)
+      * [Obtain free cycles from Dfinity](#)
+      * [Understand how to manage the cycles balance of a canister](#)      
+      * [Build and deploy a static, personal CV website to the Internet Computer](#)
+      * [Check how many cycles were used](#) 
+    
+  <br>
+  
+   * **Work with a React Front End and Blockchain Backend**
+      * [Use a React frontend in combination with the Internet Computer](#)
+      * [Allow users to create their own notes and persist these in a canister](#)
+      * [Learn to use CRUD style operations on a canister from the front end](#)      
+      * [Learn to use the Candid interface to test the app](#)
    
+  <br>
+  
+   * **Create your own crypto token**
+      * [Understand the role of tokens in dapps and open internet services](#)
+      * [Create a token modelled on Ethereum's ERC-20 and deploy it on the Internet Computer](#)
+      * [Create a faucet contract that dispenses small amounts of the token](#)      
+      * [Understand and work with principal IDs to identify users and smart contracts](#)
+      * [Use the Plug wallet to track token balances](#)      
+      * [Learn how to transfer the token between user accounts](#)
+
+  <br>
+  
+   * **Create an NFT and Marketplace**
+      * [Create a non-fungible token modelled on ERC-721 and deploy it to the Internet Computer](#)
+      * [Build a marketplace website like OpenSea to allow users to mint, buy and sell NFTs](#)
+      * [The owner of the NFT can interact with the canister to transfer the ownership of the .jpeg to another account](#)      
+
 <!--te-->
 
 ### Author
