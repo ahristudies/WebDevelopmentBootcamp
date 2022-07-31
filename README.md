@@ -155,7 +155,7 @@ Syllabus
                     
  <br>
  
-   * **Application Program Interfaces (APIS) **
+   * **Application Program Interfaces (APIS)**
       * [What APIs are and how they work](#)
       * [HTTP in Depth](#)
       * [Calling APIs](#)
