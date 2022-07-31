@@ -1,5 +1,8 @@
 ![Apresentação curso tecnologia para mulheres moderno neon (1)](https://user-images.githubusercontent.com/108016103/182036068-96ee04e9-1bf9-4288-b43b-321061057309.png)
-
+<p align="center">
+ <a href="#topics-guide">Home</a> •
+ <a href="#syllabus">Back to main folder</a>
+</p>
 Does everyone think of the Internet as something super complex, maybe a satellite? Or a cloud that distributes the Internet around, but it's basically a long wire that connects different computers to each other. There are two types of computers, the one we normally use to access websites, respond to emails and this one is called a client and the other is a machine that is connected 24/7 to respond to requests, exchange data and files, these are called of servers. Companies that offer a service on the Internet can have their own server, for example: Google, Facebook, Twitter and etc…, while small companies usually pay for hosting (hiring a smaller server so that their website is online). So in practice, how does accessing a website work?
 
 You type “google.com” → Your browser sends a message to your ISP → This message is redirected to DNS → The DNS response is sent to your browser, the response is usually the IP number of this site → Your request goes to the backbone → the backbone connects you with the server referring to that IP → The server sends you several files that help you to visualize this site.
