@@ -122,8 +122,7 @@ Syllabus
       * [Using basic bash commands at Unix/Linux Terminal](#)
       * [Manipulate files and folders without need a GUI](#)
       * [How to download and install to your computer using command line](#)
-    
-      
+         
  <br>
 
    * **Git, Github and Version Control**
