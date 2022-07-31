@@ -228,7 +228,8 @@ Syllabus
       * [Setting up local authentication from scratch](#)
       * [Implementing Passport to authenticate users quickly and effectively](#)
       * [Understand and use environment variables to keep secret keys secure](#)
-      * [Understand and use OAuth 2.0 to log in users using Google and Facebooks](#)                                                  
+      * [Understand and use OAuth 2.0 to log in users using Google and Facebooks](#)
+      
  <br>
 
    * **React.Js**
@@ -240,7 +241,17 @@ Syllabus
       * [State Management in React](#)
       * [React Hooks](#)
       * [Conditional rendering in React](#)   
-      * [Understand the difference between class and functional components.](#)          
+      * [Understand the difference between class and functional components.](#)      
+ <br>
+
+   * **Javascript ES6**
+      * [Arrow Functions](#)
+      * [Map/Filter/Reduce](#)
+      * [Find/FindOne/FindIndex](#)
+      * [Import/Export and Modules](#) 
+      * [Object and Array Destructuring](#)
+      * [Spread Operator](#)
+   
 <!--te-->
 
 ### Author
