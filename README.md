@@ -20,7 +20,7 @@ Topics Guide
    * [HTML5](#)
    * [CSS3](#)
    * [Javascript ES6](#)
-   * [DOM Manipulation(#)
+   * [DOM Manipulation](#)
    * [jQuery](#)
    * [Bash Command Line](#)
    * [Git, GitHub and Version Control](#)
