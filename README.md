@@ -50,7 +50,7 @@ Syllabus
 <!--ts-->
    * **Web Development Fundamentals**
       * [How Websites Work](#)
-      * [How Internet Works](#)
+      * [How Internet Works](https://github.com/ahristudies/WebDevelopmentBootcamp/blob/main/Fundamentals/HowInternetWorks.md)
       * [Starting to use HTML, CSS and JavaScript](#)
       * [Git, Github and version control](#)
       * [Unix command line and write bash commands](#)
