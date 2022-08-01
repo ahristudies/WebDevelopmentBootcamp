@@ -51,7 +51,7 @@ Syllabus
    * **Web Development Fundamentals**
       * [How Websites Work](https://github.com/ahristudies/WebDevelopmentBootcamp/blob/main/Fundamentals/HowWebsitesWork.md)
       * [How Internet Works](https://github.com/ahristudies/WebDevelopmentBootcamp/blob/main/Fundamentals/HowInternetWorks.md)
-      * [Starting to use HTML, CSS and JavaScript](#)
+      * [Starting to use HTML, CSS and JavaScript](https://github.com/ahristudies/WebDevelopmentBootcamp/blob/main/Fundamentals/HowWebsitesWork.md#what-html-css-and-javascript-does)
       * [Git, Github and version control](#)
       * [Unix command line and write bash commands](#)
       * [Learn debugging skills to your project](#)
