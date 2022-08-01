@@ -1,4 +1,4 @@
-![Apresentação curso tecnologia para mulheres moderno neon (1)](https://user-images.githubusercontent.com/108016103/182036068-96ee04e9-1bf9-4288-b43b-321061057309.png)
+![Apresentação curso tecnologia para mulheres moderno neon (3)](https://user-images.githubusercontent.com/108016103/182223411-79a38391-0921-460a-be47-bf9c5852e3d9.png)
 <p align="center">
  <a href="https://github.com/ahristudies/WebDevelopmentBootcamp">Home</a> •
  <a href="https://github.com/ahristudies/WebDevelopmentBootcamp/tree/main/Fundamentals">Back to main folder</a>
