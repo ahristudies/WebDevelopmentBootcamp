@@ -16,7 +16,7 @@ This repository has the purpose of posting notes and projects carried out during
 
 Topics Guide
 =================
-   * [Web Fundamentals](#)
+   * [Web Fundamentals](https://github.com/ahristudies/WebDevelopmentBootcamp/tree/main/Fundamentals)
    * [HTML5](#)
    * [CSS3](#)
    * [Javascript ES6](#)
