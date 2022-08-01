@@ -29,3 +29,19 @@ We already understand how the internet works, but how does accessing websites wo
   <li>These pieces of files are <b>HTML, CSS, JavaScript, images, audios, videos</b> and for each file, a new connection is created.</li> 
 </ul>
 <p align="center"><b>All this in milliseconds.</b></p>
+
+<h2>What HTML, CSS and JavaScript does?</h2>
+<p align="justify">
+ As stated earlier, the way you view and use a website is when the server sends files to you. These files most used by developers are HTML, CSS and JavaScript, as it is the main basis for creating web applications. But what exactly do each of them do? </p>
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/108016103/182231613-ed27bb6f-65fd-43c4-b772-a6fb8577f961.png" align="center" width="300px">
+</p>
+<p align="justify">
+The image above shows a metaphor for each of these languages, it is the most used in courses, as it is the most "accurate".
+
+ <b>HTML</b> - It's the structure of every website start, it's how you define where each column or header will go.
+
+ <b>CSS</b> - HTML alone doesn't look pretty, after all it's a markdown language (very used in 90's websites), so today we have CSS that brings more beauty and design to the website. This is how buttons are customized, leaving a better positioned navigation bar on the site.
+
+ <b>JavaScript</b> - If we already have the structure and the visual part already established, what do we need? Let it be a functional page! That's how Javascript works, it makes a button work, it brings motion perhaps to a slide of photos.
+ </p>
